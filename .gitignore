@@ -1,0 +1,4 @@
+.env
+# Byte-code files
+__pycache__/
+*.pyc
